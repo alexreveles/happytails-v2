@@ -1,5 +1,7 @@
 # Happy Tails v2.0
 
+# Frontend Developer and Backend Developer
+
 
 ## Table of Contents
 1. [Description](#description)
